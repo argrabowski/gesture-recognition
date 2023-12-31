@@ -2,6 +2,8 @@
 
 This Python script captures video from a camera, recognizes hand gestures using MediaPipe, and applies visual effects based on the recognized gestures. It leverages the OpenCV and MediaPipe libraries.
 
+https://github.com/argrabowski/gesture-recognition/assets/64287065/27604ace-5f61-4395-8dd4-9ebf0dd3f60b
+
 ## Features
 
 - Gesture recognition using MediaPipe's `vision.GestureRecognizer`.
